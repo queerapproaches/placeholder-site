@@ -1,0 +1,1 @@
+Queer Approaches to Media is a research organization which emphasizes elevating the work of early-career scholars and graduate students. It is run by the Queer Approaches to Media research cluster at the University of California, Irvine, housed in the School of Humanities, and affiliated faculty.
