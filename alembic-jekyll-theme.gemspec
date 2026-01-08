@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "alembic-jekyll-theme"
+  spec.name          = "Queer Approaches to Media"
   spec.version       = "4.1.0"
   spec.authors       = ["David Darnes"]
   spec.email         = ["me@daviddarnes.com"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
+  spec.summary       = %q{An emergent community for emergent scholars}
+  spec.description   = "Queer Approaches to Media is a research organization which emphasizes elevating the work of early-career scholars and graduate students. It is run by the Queer Approaches to Media research cluster at the University of California, Irvine, housed in the School of Humanities, and affiliated faculty."
   spec.homepage      = "https://alembic.darn.es"
   spec.license       = "MIT"
 
